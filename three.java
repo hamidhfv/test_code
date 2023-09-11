@@ -1,4 +1,3 @@
-Public static main ()
-{       
+static web main ()
+{
 }
-
